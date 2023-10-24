@@ -4,6 +4,7 @@ from transformers import AutoModelForSeq2SeqLM, AutoTokenizer
 from datasets import load_dataset, load_from_disk
 import torch
 import os
+import pandas
 from textSummarizer.logging import logger
 from textSummarizer.entity import ModelTrainerConfig
 
