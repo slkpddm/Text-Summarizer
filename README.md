@@ -11,6 +11,8 @@
 7.Update the main.py
 8.Update the app.py
 
+GitHub: https://github.com/slkpddm/Text-Summarizer.git
+
 ## AWS-CICD-Deployment-with-Github-Actions
 ### 1. Login to AWS console.
 ### 2. Create IAM user for deployment
